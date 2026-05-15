@@ -1,7 +1,7 @@
 {
   "entryAssembly": "UI",
   "resources": {
-    "hash": "sha256-Tufa7bas2G5lDgtlRX+4csvOfZu6w4EsaD5IUgDdP9Y=",
+    "hash": "sha256-Cvp9cOXnaTRrEfL8tX/vSHPj45Odem+VAr0tDeVgSaI=",
     "runtime": {
       "dotnet.js": "sha256-1oB6LIeG3aBeYG4qOzInvHwfCvPVINul1VaEIih19BY=",
       "dotnet.wasm": "sha256-uVpMntpd1XgAkE+taYn1R/yKqw4t7e7CTznsRboy7uI=",
@@ -26,7 +26,7 @@
       "Microsoft.Extensions.Primitives.dll": "sha256-TC9k/FatHcMyVjSaSl+o90l9NWdnl2/05D7TKkwJcp0=",
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-lIj/y8P2id3fPTRMmeyVQ7A2pOxHz0JKK0TZjU9oSH4=",
       "Microsoft.JSInterop.dll": "sha256-C6nzgOzLs+YaGBQTFSbC87LXgvdSywl+D2hUM2urRRo=",
-      "PdfParser.dll": "sha256-ZCzZSGRkTTxMTY0iWpXWnl0177g3YOnsYam+S1fQD74=",
+      "PdfParser.dll": "sha256-iYNxRr5t3zTQ1tWL/m1wZLhU7MNT4KvbzI2QFboK9V4=",
       "System.Collections.Concurrent.dll": "sha256-G+Rw95CDKoJWLSaeOIxmJ0GCHnyVSkMFovF9LErQhPg=",
       "System.Collections.dll": "sha256-X67QAXALQAJjtrCkLM0huewO3uzXpwShnbnLdpg+pBk=",
       "System.ComponentModel.dll": "sha256-ltTqO+dw5n4ix2Usql/ZUwIyOyVtlDU5gEPCxbbvg8o=",
@@ -41,7 +41,7 @@
       "System.Runtime.dll": "sha256-i1MtLRIfBRlcBls1yDvz/daT/nUEsYyx3Ha2VKQz52U=",
       "System.Text.Encodings.Web.dll": "sha256-cXPV3AopBJ1yy6GHowt1JtWUx0zIrLa4QcvHFuDu/AU=",
       "System.Text.Json.dll": "sha256-2UiLufyte9sAZGr5++8rvz+Bz2fdQmLPLweBKLadqAs=",
-      "UI.dll": "sha256-djwkFutXLg+8zR4o8rTGsC3Y5tl4j/WQK2MsYH8Ve80="
+      "UI.dll": "sha256-wH+N52cN3ruKvrNIUudzba9MtuY5+Q+VfOi+lBqVJEs="
     },
     "runtimeAssets": {
       "dotnet.wasm": {
